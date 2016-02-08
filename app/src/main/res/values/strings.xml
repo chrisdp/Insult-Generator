@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">Insult Generator :)</string>
+
+    <string name="enter_title">Enter the name of your victim:</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_go">Hit Me!</string>
+    <string name="btn_clear">Clear</string>
+    <string name="output">[This is where my generated insult goes]</string>
+
+
+    <string name="info_name">Info!</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_info">\u003f</string>
+
+    <string name="alphabet">abcdefghijklmnopqrstuvwxyz</string>
+    <string name="input_error">Input Error</string>
+    <string name="msg"> is a </string>
+    <string name="mark">!</string>
+    <string name="info_instruct">Name enter on line!</string>
+    <string name="count_text">Number of generated insults:</string>
+    <string name="count_total_text">Total number of generated insults:</string>
+
+    <string-array name="noun_arr">
+        <item>ball</item>
+        <item>bat</item>
+        <item>bed</item>
+        <item>book</item>
+        <item>boy</item>
+        <item>bun</item>
+        <item>can</item>
+        <item>cake</item>
+        <item>cap</item>
+        <item>car</item>
+        <item>cat</item>
+        <item>cow</item>
+        <item>cub</item>
+        <item>cup</item>
+        <item>dad</item>
+        <item>day</item>
+        <item>dog</item>
+        <item>doll</item>
+        <item>dust</item>
+        <item>fan</item>
+        <item>feet</item>
+        <item>girl</item>
+        <item>gun</item>
+        <item>hall</item>
+        <item>hat</item>
+        <item>hen</item>
+        <item>jar</item>
+        <item>kite</item>
+        <item>man</item>
+        <item>map</item>
+        <item>men</item>
+        <item>mom</item>
+        <item>pan</item>
+        <item>pet</item>
+        <item>pie</item>
+        <item>pig</item>
+        <item>pot</item>
+        <item>rat</item>
+        <item>son</item>
+        <item>sun</item>
+        <item>toe</item>
+        <item>tub</item>
+        <item>van</item>
+    </string-array>
+    <string-array name="adj_arr">
+       <item>adorable</item>
+        <item>beautiful</item>
+        <item>clean</item>
+        <item>drab</item>
+        <item>elegant</item>
+        <item>fancy</item>
+        <item>glamorous</item>
+        <item>handsome</item>
+        <item>long</item>
+        <item>magnificent</item>
+        <item>old-fashioned</item>
+        <item>plain</item>
+        <item>quaint</item>
+        <item>sparkling</item>
+        <item>ugly</item>
+        <item>unsightly</item>
+        <item>wide-eyed</item>
+        <item>red</item>
+        <item>orange</item>
+        <item>yellow</item>
+        <item>green</item>
+        <item>blue</item>
+        <item>purple</item>
+        <item>gray</item>
+        <item>black</item>
+        <item>white</item>
+        <item>angry</item>
+        <item>bewildered</item>
+        <item>clumsy</item>
+        <item>defeated</item>
+        <item>embarrassed</item>
+        <item>fierce</item>
+        <item>grumpy</item>
+        <item>helpless</item>
+        <item>itchy</item>
+        <item>jealous</item>
+        <item>lazy</item>
+        <item>mysterious</item>
+        <item>nervous</item>
+        <item>obnoxious</item>
+        <item>panicky</item>
+        <item>repulsive</item>
+        <item>scary</item>
+        <item>thoughtless</item>
+        <item>uptight</item>
+        <item>worried</item>
+    </string-array>
+</resources>
